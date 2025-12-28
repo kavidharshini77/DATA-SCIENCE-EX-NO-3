@@ -91,7 +91,9 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="1098" height="805" alt="image" src="https://github.com/user-attachments/assets/ad2b492a-8d8a-431d-8b1d-c1b5a00ba559" />
 
 <img width="1052" height="740" alt="image" src="https://github.com/user-attachments/assets/91e64f3e-9ae9-4b9a-80bb-798736be7831" />
+
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       
 # RESULT:
        # INCLUDE YOUR RESULT HERE
    Thus the program to implement the linear regression using gradient descent is written and verified using Python programming
